@@ -314,18 +314,26 @@ def clear():
 def banner2():
     os.system('clear')
     print(f"""{warn}
-  ___                  _ 
- | _ )_ _ __ _ _ _  __| |
- | _ \ '_/ _` | ' \/ _` |
- |___/_| \__,_|_||_\__,_|
+ _______             __                               
+|       \           |  \                              
+| $$$$$$$\  ______   \$$ _______    _______   ______  
+| $$__/ $$ /      \ |  \|       \  /       \ /      \ 
+| $$    $$|  $$$$$$\| $$| $$$$$$$\|  $$$$$$$|  $$$$$$\
+| $$$$$$$ | $$   \$$| $$| $$  | $$| $$      | $$    $$
+| $$      | $$      | $$| $$  | $$| $$_____ | $$$$$$$$
+| $$      | $$      | $$| $$  | $$ \$$     \ \$$     \
+ \$$       \$$       \$$ \$$   \$$  \$$$$$$$  \$$$$$$$
+                                                      
+                                                      
+                                                      
                          
  Author    {M}:\033[1;37m Thaquree
- Github    {M}:\033[1;37m MR-Shikhar-404-XD
- Facebook  {M}:\033[1;37m MR.Shikhar.404.XD
- Tool Name {M}:\033[1;37m Shikhar-GREEN
+ Github    {M}:\033[1;37m MR-Brand
+ Facebook  {M}:\033[1;37m Brand Thaquree
+ Tool Name {M}:\033[1;37m Shikhar-Brand
  Future    {M}:\033[1;37m {H}F{P}|{H}R{P}|{H}N{P}|{H}G{P}
  Status    {M}:\033[1;32m Premium{P}
- Version   {M}: {GREEN}1.0.2\033[1;37m
+ Version   {M}: {Brand}2.6\033[1;37m
 {warna}---------------------------------------------------{P}""")
 led = f"""{warna}---------------------------------------------------"""
 #---------------------[LOOP MENU]---------------------#
@@ -361,9 +369,10 @@ def Subscraption():
             os.system('xdg-open  https://wa.me/+8801841004250?text='+tks)
             Subscraption()
         if opt =='2':
-            os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO');Subscraption()
+           
+            os.system('xdg-open https://www.facebook.com/Brand thaquree.TOH.SONSO');Subscraption()
         if opt =='3':
-            os.system('xdg-open https://www.facebook.com/FB.KING.CYBER/');Subscraption()
+            os.system('xdg-open https://www.facebook.com/Brand thaquree/');Subscraption()
         if opt =='4':
             clear();banner2();jalan(f'{P}[{M}√{P}] Hi Bro Your Crazy Terminal Closed {P} ')
         else:
@@ -393,13 +402,13 @@ def Subscraption1():
         banner2();print(f"\033[1;37m[\033[1;31m✓\033[1;37m] {RED}{BA}Hi Dear User  Your Key is Not Approved{N}");print (f"\033[1;37m[\033[1;31m✓\033[1;37m]\033[1;34m Key {P}= {warna}"+key1);print(led);print(f"\033[1;37m[\033[1;32m•\033[1;37m] Tools {M}: {H}Facebook cloning {N}");print(f"\033[1;37m[\033[1;32m•\033[1;37m] Note {M} :{K} {BA}Free user don't come inbox {N}");print(led);print(f'{H}{BA}The benefits you will get at our command{N}');print(led);print(f'{P}[{M}•{P}] File Create{N} ');print(f'{P}[{M}•{P}] File Cloning{N} ');print(f'{P}[{M}•{P}] Gmail Cloning{N} ');print(f'{P}[{M}•{P}] Number Cloning{N} ');print(f'{P}[{M}•{P}] Crazy New cloning {N} ');print(f'{P}[{M}•{P}] Random Uid Cloning{N} ');print(led);print(f'{N}{BA}If you want to buy this command then\n choose option number one{N}');print(led);print(f'{P}[{H}1{P}] {H}I want to buy Crazy Command{N} ');print(f'{P}[{B}2{P}] {B}Contract Crazy Admin{N} ');print(f'{P}[{K}3{P}] {K}Join Crazy Group{N} ');print(f'{P}[{RED}4{P}] {RED}Exit Crazy Terminal');print(led)
         opt = input(f'{P}[{M}+{P}] Choose {M}:{H} ')
         if opt =='1':
-            tks = '*ASALAMUALIKUM*%2C%20*MAHIN-AHMED-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*MR_CRAZY_COMMAND%20*---*%20*Version%20:%201.0.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
-            os.system('xdg-open  https://wa.me/+8801841004250?text='+tks)
+            tks = '*Prince*%2C%20*Brand-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*MR_CRAZY_COMMAND%20*---*%20*Version%20:%201.0.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
+            os.system('xdg-open  https://wa.me/+9779769854260?text='+tks)
             Subscraption()
         if opt =='2':
-            os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO');Subscraption()
+            os.system('xdg-open https://www.facebook.com/Brand thaquree.TOH.SONSO');Subscraption()
         if opt =='3':
-            os.system('xdg-open https://www.facebook.com/FB.KING.CYBER/');Subscraption()
+            os.system('xdg-open https://www.facebook.com/Brand thaquree/');Subscraption()
         if opt =='4':
             clear();banner2();jalan(f'{P}[{M}√{P}] Hi Bro Your Crazy Terminal Closed {P} ')
         else:
@@ -411,12 +420,12 @@ except:exit(f'{M}Use Vpn Your Net connection error ')
 if 'START' in ck:
     pass
 elif 'OFF' in ck:
-    exit(f'{K}Updating Crazy Green Fire');os.system("xdg-open https://github.com/FB-KING");os.system("xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO?mibextid=ZbWKwL")
+    exit(f'{K}Updating Crazy Green Fire');os.system("xdg-open https://github.com/rolex15");os.system("xdg-open https://www.facebook.com/Brand thaquree.TOH.SONSO?mibextid=ZbWKwL")
 elif 'BYS' in ck:
     banner2();jalan(f'{M}Fuck Bypass User 😂');time.sleep(2);Subscraption1()
 elif 'TRY' in ck:
     banner2();jalan(f'{O}Trail Off Buy Paid Command');time.sleep(2);Subscraption()
-banner2();jalan(f'{H}Update Checking Please Wait ') #;os.system("xdg-open https://github.com/FB-KING");os.system("xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO?mibextid=ZbWKwL")
+banner2();jalan(f'{H}Update Checking Please Wait ') #;os.system("xdg-open https://github.com/FB-KING");os.system("xdg-open https://www.facebook.com/Brand thaquree.TOH.SONSO?mibextid=ZbWKwL")
 
 loop = 0
 cp = []
@@ -427,7 +436,7 @@ frm = requests.get("http://ip-api.com/json/").json()["country"]
 #---------------------[MAIN MENU]---------------------#
 
 def menu():
-            os.system('clear');banner2();print(f'{P}[{warn}1{P}] File Cloning menu');print(f'{P}[{warn}2{P}] Remove Duplicate File');print(f'{P}[{warn}3{P}] Bd Random Cloning {H}Try');print(f'{P}[{warn}4{P}] Bd Random Cloning {K}Slow ');print(f'{P}[{warn}5{P}] Bd Crazy Cloning  ');print(f'{P}[{warn}6{P}] Pak  Random Cloning ');print(f'{P}[{warn}7{P}] Gmail Cloning ');print(f'{P}[{warn}8{P}] Follow me on Facebook');print(f'{P}[{RED}9{P}] {RED}Exit Crazy Terminal');print(led)
+            os.system('clear');banner2();print(f'{P}[{warn}1{P}] File Cloning');print(f'{P}[{warn}2{P}] Remove Duplicate File');print(f'{P}[{warn}3{P}] Bd Random Cloning {H}Try');print(f'{P}[{warn}4{P}] Bd Random Cloning {K}Slow ');print(f'{P}[{warn}5{P}] Bd Crazy Cloning  ');print(f'{P}[{warn}6{P}] Pak  Random Cloning ');print(f'{P}[{warn}7{P}] Gmail Cloning ');print(f'{P}[{warn}8{P}] Follow me on Facebook');print(f'{P}[{RED}9{P}] {RED}Exit Crazy Terminal');print(led)
             crazy_nil=input(f'{P}[{warn}+{P}] Put Option {M}:{H} ')
             if crazy_nil in ['1','01']:
                  crack_file()
@@ -444,7 +453,7 @@ def menu():
             elif crazy_nil in ['7','07']:
                 gmail()
             elif crazy_nil in ['8','08']:
-                os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO?mibextid=ZbWKwL');menu()
+                os.system('xdg-open https://www.facebook.com/Brand thaquree.TOH.SONSO?mibextid=ZbWKwL');menu()
             elif crazy_nil in ['9','09']:
                 clear();banner2();jalan(f'{P}[{M}√{P}] Hi Bro Your Crazy Terminal Closed {P} ')
             else:
